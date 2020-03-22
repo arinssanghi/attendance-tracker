@@ -1,0 +1,9 @@
+b.red {
+    color: red;
+}
+
+#validate_submit {
+    border: none;
+    float: left;
+    margin-top: 3px;
+}
